@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+
+html, body {
+
+height: 100%;
+width: 100%;
+
+}
+
+
+
+.faustop > img { 
+
+float: left;
+
+
+ }
+
+ 
+
+ .faustop > div {
+
+ 	float: left;
+ 	width: 30%;
+ }
+
+
+
+.faustop > div > button {
+
+	float: right;
+	padding: 1% 5%;
+}
+
+.conteudo > h1 {
+	float: left
+}
+
+.conteudo > p {
+	float: left;
+}
+
+.conteudo > img {
+
+	float: left;
+	margin-right: 5%;
+}
+
+.clear {
+	clear: both;
+}
+
+.faustop {
+	float: left;
+	margin-top: 3%;
+}
